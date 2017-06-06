@@ -1,0 +1,21 @@
+{
+  "name": "my first angular four project",
+  "homepage": "https://github.com/avinashp199/angular4project",
+  "authors": [
+    "Avinash Pratap <avinashp199@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "angularjs#^1.6.4"
+  }
+}

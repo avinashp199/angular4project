@@ -1,0 +1,23 @@
+{
+  "name": "angular4project",
+  "version": "0.1.0",
+  "description": "hi first html5 with angular 4 project",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinashp199/angular4project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinashp199/angular4project/issues"
+  },
+  "homepage": "https://github.com/avinashp199/angular4project#readme"
+}
